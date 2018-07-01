@@ -1,4 +1,4 @@
-# ALC Certificate of Course & Challenge Completion
+# ALC 7-days Challenge Completion
 ## Project Name: Pixel Art Maker
 ### By **Ohore Christian**
 ####link to githup pages ####
